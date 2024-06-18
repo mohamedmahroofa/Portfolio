@@ -1,2 +1,2 @@
 # Portfolio
-Creating my portfolio
+Creating my portfolio sample using Asmr Coding as practice. 
